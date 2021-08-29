@@ -7,10 +7,10 @@ kotlin과 firebase를 이용하여 instagram과 비슷하게 구현하는 프로
 
 ## 개발환경
 
-*
-*
-*
-*
+* OS : windows 10 pro
+* IDE : Android Studio
+* Language : Kotlin
+* Platform : Firebase
 
 
 ## Usage example
