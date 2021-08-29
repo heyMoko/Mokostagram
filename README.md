@@ -7,17 +7,11 @@ kotlin과 firebase를 이용하여 instagram과 비슷하게 구현하는 프로
 
 ## 개발환경
 
-OS X & Linux:
+*
+*
+*
+*
 
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
