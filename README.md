@@ -1,5 +1,5 @@
 # mokostagram
-> 하울의 안드로이드 인스타그램 클론 만들기 - inflearn
+> 하울의 안드로이드 인스타그램 클론 만들기 -- inflearn
 
 instagram 클론코딩 과정으로
 kotlin과 firebase를 이용하여 instagram에 가깝게 구현하는 프로젝트
