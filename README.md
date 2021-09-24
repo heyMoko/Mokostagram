@@ -21,5 +21,4 @@ kotlin과 firebase를 이용하여 instagram에 가깝게 구현하는 프로젝
 
 
 
-
-614c5217b1967bb7183f3622 
+614d4e79b1967bb7183f56f9
